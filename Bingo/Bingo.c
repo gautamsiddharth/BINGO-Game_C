@@ -1,11 +1,7 @@
 
 /*
 Siddharth Gautam
-1001741324
-CSE 1320_002
-Coding Assignment #4
-
-*/
+Bingo game*/
 
 #include <stdio.h>
 #include <stdlib.h>
